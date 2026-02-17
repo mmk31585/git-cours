@@ -116,7 +116,7 @@ You should see:
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 02 Task](../../excersises/setup/task.md)
+- [Exercise: Lesson 02 Task](../../exercises/setup/task.md)
 
 ## Navigation
 

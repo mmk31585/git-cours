@@ -38,7 +38,7 @@ git status
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 11 Task](../../excersises/remote-push-pull/task.md)
+- [Exercise: Lesson 11 Task](../../exercises/remote-push-pull/task.md)
 
 ## Suggested Commit Messages
 - `docs: add remote setup notes`

@@ -45,7 +45,7 @@ git log --oneline --graph --decorate --all
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 15 Task](../../excersises/rebase-vs-merge/task.md)
+- [Exercise: Lesson 15 Task](../../exercises/rebase-vs-merge/task.md)
 
 ## Suggested Commit Messages
 - `docs: compare rebase and merge`

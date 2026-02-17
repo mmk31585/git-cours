@@ -39,7 +39,7 @@ git push -u origin feature/pr-demo
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 12 Task](../../excersises/pull-requests/task.md)
+- [Exercise: Lesson 12 Task](../../exercises/pull-requests/task.md)
 
 ## Suggested Commit Messages
 - `feat: add pr demo change`

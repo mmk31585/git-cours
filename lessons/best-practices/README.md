@@ -37,7 +37,7 @@ git push
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 20 Task](../../excersises/best-practices/task.md)
+- [Exercise: Lesson 20 Task](../../exercises/best-practices/task.md)
 
 ## Suggested Commit Messages
 - `docs: add git best-practices checklist`

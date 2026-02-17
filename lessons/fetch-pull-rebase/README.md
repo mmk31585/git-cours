@@ -39,7 +39,7 @@ git log --oneline --graph --decorate --all
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 14 Task](../../excersises/fetch-pull-rebase/task.md)
+- [Exercise: Lesson 14 Task](../../exercises/fetch-pull-rebase/task.md)
 
 ## Suggested Commit Messages
 - `docs: explain fetch vs pull`

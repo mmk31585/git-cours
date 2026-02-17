@@ -37,7 +37,7 @@ git tag -d v1.0.0
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 17 Task](../../excersises/tagging-releases/task.md)
+- [Exercise: Lesson 17 Task](../../exercises/tagging-releases/task.md)
 
 ## Suggested Commit Messages
 - `chore: prepare release notes`

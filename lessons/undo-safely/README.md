@@ -103,7 +103,7 @@ Use this carefully, but it is a key recovery tool.
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 06 Task](../../excersises/undo-safely/task.md)
+- [Exercise: Lesson 06 Task](../../exercises/undo-safely/task.md)
 
 ## Suggested Commit Messages
 - `docs: add undo basics notes`

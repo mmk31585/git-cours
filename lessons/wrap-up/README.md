@@ -32,7 +32,7 @@ By the end of this lesson, you will be able to:
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 22 Task](../../excersises/wrap-up/task.md)
+- [Exercise: Lesson 22 Task](../../exercises/wrap-up/task.md)
 
 ## Suggested Commit Messages
 - `docs: add course wrap-up summary`

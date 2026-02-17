@@ -84,7 +84,7 @@ Expected result:
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 03 Task](../../excersises/first-repo/task.md)
+- [Exercise: Lesson 03 Task](../../exercises/first-repo/task.md)
 
 ## Suggested Commit Messages
 Good examples:

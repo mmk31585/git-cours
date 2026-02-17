@@ -48,7 +48,7 @@ git pull
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 13 Task](../../excersises/team-workflow/task.md)
+- [Exercise: Lesson 13 Task](../../exercises/team-workflow/task.md)
 
 ## Suggested Commit Messages
 - `feat: add feature branch workflow doc`

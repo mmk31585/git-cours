@@ -43,7 +43,7 @@ git pull
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 21 Task](../../excersises/mini-project/task.md)
+- [Exercise: Lesson 21 Task](../../exercises/mini-project/task.md)
 
 ## Suggested Commit Messages
 - `feat: add mini project feature`

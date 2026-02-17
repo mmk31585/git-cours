@@ -43,7 +43,7 @@ git status
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 07 Task](../../excersises/branching/task.md)
+- [Exercise: Lesson 07 Task](../../exercises/branching/task.md)
 
 ## Best Practice: Branch naming
 Good branch names:

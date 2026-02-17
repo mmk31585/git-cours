@@ -29,6 +29,7 @@ Optional push all tags:
 ```bash
 git push origin --tags
 ```
+Note: `--tags` pushes every local tag, so use it only when you intend to publish all tags.
 
 ## Self-Check
 - [ ] I created annotated tag `v0.1.0`

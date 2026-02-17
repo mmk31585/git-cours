@@ -19,19 +19,28 @@ Practice goal: create a clean GitHub repository with essential collaboration fil
 - `docs`
 
 ## Part C: Connect local repository
-1. In your local project:
+1. In your local project, verify branch and connect remote:
 ```bash
+git branch
 git remote add origin <repo-url>
 git push -u origin main
 ```
+If your branch is not `main`, replace `main` with your branch name.
+If you see `remote origin already exists`, run:
+```bash
+git remote set-url origin <repo-url>
+```
 
-2. Verify:
+2. Verify remote and push result:
 ```bash
 git remote -v
+git log origin/main --oneline -n 3
 ```
+Also verify in GitHub UI that your files are visible.
 
 ## Self-Check
 - [ ] I created a GitHub repository
 - [ ] Repository has README and LICENSE
 - [ ] I created and labeled issues
 - [ ] Local `main` is pushed to `origin`
+- [ ] I can see my files on GitHub

@@ -38,7 +38,7 @@ git stash -u
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 16 Task](../../excersises/stash/task.md)
+- [Exercise: Lesson 16 Task](../../exercises/stash/task.md)
 
 ## Suggested Commit Messages
 - `docs: add stash workflow notes`

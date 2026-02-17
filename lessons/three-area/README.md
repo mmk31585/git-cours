@@ -63,7 +63,7 @@ git commit -m "message"     # staging -> repository
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 04 Task](../../excersises/three-area/task.md)
+- [Exercise: Lesson 04 Task](../../exercises/three-area/task.md)
 
 ## Suggested Commit Messages
 - `docs: explain git three areas`

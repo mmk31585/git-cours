@@ -30,7 +30,7 @@ gh issue create --title "Example task" --body "Details"
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 19 Task](../../excersises/collaboration-tools/task.md)
+- [Exercise: Lesson 19 Task](../../exercises/collaboration-tools/task.md)
 
 ## Suggested Commit Messages
 - `docs: add issue and label conventions`

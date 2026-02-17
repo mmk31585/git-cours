@@ -52,7 +52,7 @@ git show <hash>   # specific commit
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 05 Task](../../excersises/history-tools/task.md)
+- [Exercise: Lesson 05 Task](../../exercises/history-tools/task.md)
 
 ## Suggested Commit Messages
 - `docs: add history file`

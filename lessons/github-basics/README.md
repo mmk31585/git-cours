@@ -41,7 +41,7 @@ git push -u origin main
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 10 Task](../../excersises/github-basics/task.md)
+- [Exercise: Lesson 10 Task](../../exercises/github-basics/task.md)
 
 ## Suggested Commit Messages
 - `docs: add project readme`

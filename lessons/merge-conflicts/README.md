@@ -61,7 +61,7 @@ Use `git merge --abort` if you want to cancel and return to pre-merge state.
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 09 Task](../../excersises/merge-conflicts/task.md)
+- [Exercise: Lesson 09 Task](../../exercises/merge-conflicts/task.md)
 
 ## Suggested Commit Messages
 - `fix: resolve merge conflict in README.md`

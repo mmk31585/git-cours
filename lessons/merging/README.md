@@ -82,7 +82,7 @@ git log --oneline --graph --decorate --all     # visualize commit graph
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 08 Task](../../excersises/merging/task.md)
+- [Exercise: Lesson 08 Task](../../exercises/merging/task.md)
 
 ## Suggested Commit Messages
 - `feat: add merge demo file`

@@ -39,7 +39,7 @@ git commit -m "chore: stop tracking <file>"
 ## Practice Exercise
 Complete the lesson practice in:
 
-- [Exercise: Lesson 18 Task](../../excersises/gitignore-hygiene/task.md)
+- [Exercise: Lesson 18 Task](../../exercises/gitignore-hygiene/task.md)
 
 ## Suggested Commit Messages
 - `chore: add .gitignore`

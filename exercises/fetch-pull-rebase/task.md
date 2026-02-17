@@ -33,8 +33,11 @@ git commit -m "docs: add rebase demo note"
 git switch main
 git pull
 git switch feature/rebase-demo
+git status   # ensure clean working tree before rebase
 git rebase main
 ```
+
+If your working tree is not clean, commit, stash, or clean changes before rebasing.
 
 If interrupted:
 ```bash
