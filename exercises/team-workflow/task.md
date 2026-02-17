@@ -4,7 +4,7 @@ Practice goal: follow a complete feature-branch workflow from branch creation to
 
 ## Part A: Start clean
 ```bash
-git switch main
+git switch main  # or your repo's default branch (for example, master)
 git pull
 ```
 
