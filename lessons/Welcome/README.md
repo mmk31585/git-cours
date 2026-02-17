@@ -1,11 +1,11 @@
-# Lesson 01 — Welcome: What Git Is (and Why We Use It) 🧭
+# Lesson 01 — Welcome: What Git Is (and Why We Use It) 
 
 Welcome to **Lesson 01** of the **Git & GitHub Workshop: From Zero to Hero**.  
 In this lesson, you’ll learn what Git and GitHub are, what problems they solve, and how they fit into real developer workflows.
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 By the end of this lesson, you will be able to:
 - Explain what **Git** is in one sentence
 - Explain what **GitHub** adds on top of Git
@@ -14,13 +14,13 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🧠 Simple Explanation
+##  Simple Explanation
 
 ### What is Git?
 **Git is a version control system** — a tool that tracks changes in your files over time.  
 It works like a **time machine for your code**: you can save checkpoints and go back anytime.
 
-✅ Git helps you:
+ Git helps you:
 - Track every change
 - Recover older versions
 - Experiment safely
@@ -37,7 +37,7 @@ It works like a **time machine for your code**: you can save checkpoints and go 
 
 ---
 
-### With Git ✅
+### With Git 
 - Every meaningful change becomes a **commit (checkpoint)**
 - You can **undo** mistakes safely
 - You can develop features in **branches**
@@ -45,7 +45,7 @@ It works like a **time machine for your code**: you can save checkpoints and go 
 
 ---
 
-## 🧾 Key Vocabulary (Quick & Practical)
+##  Key Vocabulary (Quick & Practical)
 | Term | Meaning (simple) |
 |------|-------------------|
 | Repository (repo) | The project folder + its Git history |
@@ -55,5 +55,12 @@ It works like a **time machine for your code**: you can save checkpoints and go 
 | Remote | The online copy of your repo (often GitHub) |
 
 ---
->lets go next lesson
-**[Lesson 02 — Installing Git + First-Time Setup](../02-setup/README.md)**
+## Practice Exercise
+Complete the lesson practice in:
+
+- [Exercise: Lesson 01 Task](../../excersises/welcome/task.md)
+
+---
+
+## Navigation
+- Next: [Lesson 02 — Installing Git + First-Time Setup](../setup/README.md)
