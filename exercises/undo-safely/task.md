@@ -79,7 +79,8 @@ Expected result:
 git reflog
 ```
 
-2. Identify a prior reference and note it (do not run hard reset unless you understand impact):
+2. Optional advanced step: identify a prior reference and note it.
+Practice this only in a disposable clone/test repository (or create a backup branch first), because `--hard` discards working-tree and index changes.
 ```bash
 git reset --hard <reflog-hash>
 ```
