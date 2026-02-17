@@ -16,6 +16,8 @@ git commit -m "feat: add merge demo file"
 ```
 
 ## Part B: Merge into main (likely fast-forward)
+Use `main` as the example below; if your repository default branch is different (for example, `master`), use that branch name.
+
 1. Switch to main:
 ```bash
 git switch main
@@ -52,6 +54,7 @@ git commit -m "feat: add no-ff demo file"
 git switch main
 git merge --no-ff feature/no-ff-demo
 ```
+If your default branch is not `main`, substitute your default branch in the commands above.
 
 4. Inspect history again:
 ```bash
