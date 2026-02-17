@@ -20,8 +20,10 @@ git remote -v
 
 ## Part B: Push main branch
 ```bash
-git push -u origin main
+git push -u origin main  # or your repo's default branch
 ```
+
+If your default branch is not `main`, replace it in the push command above.
 
 Verify tracking:
 ```bash
