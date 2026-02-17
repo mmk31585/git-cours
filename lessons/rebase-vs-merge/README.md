@@ -1,11 +1,11 @@
 # Lesson 15 — Rebase vs Merge: When to Use Which
 
 Both rebase and merge integrate changes, but they create different history shapes.
-This lesson helps you choose the right tool for the right context.
+This lesson helps you choose the right tool for the context.
 
 ## Learning Goals
 By the end of this lesson, you will be able to:
-- Explain difference between merge and rebase
+- Explain the difference between merge and rebase
 - Choose merge or rebase for common scenarios
 - Rebase a local branch safely
 - Avoid rewriting shared public history
@@ -58,5 +58,5 @@ Complete the lesson practice in:
 - Assuming linear history is always better than explicit merges
 
 ## Navigation
-- Previous: [Lesson 14 — Keeping Up to Date](../fetch-pull-rebase/README.md)
+- Previous: [Lesson 14 — Keeping Up-to-Date](../fetch-pull-rebase/README.md)
 - Next: [Lesson 16 — Stash for Context Switching](../stash/README.md)
