@@ -46,7 +46,7 @@ Complete the lesson practice in:
 
 ## Common Pitfalls
 - Vague commits (`update`, `fix stuff`)
-- Very large PRs with mixed concerns
+- Large PRs with mixed concerns
 - Force-pushing shared branches without coordination
 - Merging without understanding change impact
 
